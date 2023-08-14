@@ -1,0 +1,197 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+/* navbar */
+ .jointe{
+    background-color: #FF9800;
+    
+}
+.nav-link{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+.nav-link .jointe{
+    color: white;
+}
+/* section2 */
+.banner .color{
+    background: linear-gradient( 0.25turn, #0D423D ,#0CC7B5 , #0CC7B5) ;
+    height: 400px;
+    color: white;
+    font-size: 15px;
+   
+   
+} 
+
+.btn{
+    background-color: #F44336;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    justify-content: center;
+    
+}
+ .avatar{
+    width: 700px;
+    margin-left: 80px;
+}
+/* section3 */
+.section3  .colors{
+    background: linear-gradient( 0.25turn, #0D423D ,#0CC7B5 , #0CC7B5) ;
+     height: 300px; 
+}
+.formation{
+    font-size: 15px;
+   color: white;
+    padding-top: 30px; 
+   
+}
+/* .bakeli{
+    border:1px solid #0CC7B5;
+    height: 400px;
+} */
+/* .alquan{
+    font-size: 12px;
+} */
+ #banner{
+    background-color: #F44336;
+      height: 550px; 
+      padding-top: 5%;
+}  
+.bottom-img{
+    width: 100%;
+}
+.diplome{
+    color: white;
+    font-size: 15px;
+    
+}
+.cp{
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.image{
+    height: 40px;
+    
+}
+.cour{
+    width: 35px;
+    height: 35px;
+}
+.groupe{
+    display: flex;
+    gap: 50px;
+}
+.card-body{
+    border: 1px solid  #0CC7B5;
+    width: 400px;
+   
+}
+.card-text{
+    font-size: 12px;
+}
+.plus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+/* section4 */
+.libero{
+    font-size: 12px;
+}
+.coach{
+    border: 1px solid #0CC7B5;
+    padding: 30px;
+    height: 230px;
+}
+#section4{
+    background-color: #F44336;
+    height: 400px;    
+}
+.pusus{
+    color: white;
+    font-size: 12px;
+}
+.active{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
+.amis{
+   height:  110px;
+    width: 200px;
+}
+.image2{
+   display: flex;
+   flex-direction: column;
+    gap: 20px;
+   
+
+}
+.veit{
+    font-size: 12px;
+}
+ .partenaire{
+   
+    background-color:white ;
+    padding: 30px;
+    height: 100px;
+    border-radius: 10px;
+}
+.nos-partenaires{
+    background-color: rgb(170, 207, 207);
+    height: 200px;
+    
+
+
+}
+/* body
+{
+    background-color: yellow;
+} */
+.color1 {
+    border: 1px solid #F44336 ;
+    padding: 30px;
+    height: 150px;
+    border-radius: 8;
+}
+.color2{
+    border: 1px solid #0CC7B5 ;
+    padding: 30px;
+    height: 150px;
+    border-radius: 8;
+
+}
+.color3{
+    border: 1px solid #FF9800 ;
+    padding: 30px;
+    height: 150px;
+    border-radius: 8;
+
+}
+.color4{
+    border: 1px solid #0CC7B5 ;
+    padding: 30px;
+    height: 150px;
+    border-radius: 8;
+
+}
+.footer{
+    background-color: #009688;
+    height: 300px;
+    margin-top: 80px;
+    
+}
+.formation{
+    color: white;
+}
+@media screen and (max-width:768px){
+    
+    
+}
